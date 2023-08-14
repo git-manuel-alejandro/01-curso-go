@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	intro.Maps()
+	intro.Structs()
 
 	// fmt.Println(intro.IsPalindrome("amor a ROMA"))
 	// intro.Array()
