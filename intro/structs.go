@@ -14,6 +14,6 @@ func Structs() {
 	}
 	manuel.Edad = 32
 
-	fmt.Println(manuel)
+	fmt.Printf("la edad de %s es %d", manuel.Nombre, manuel.Edad)
 
 }

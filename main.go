@@ -5,8 +5,10 @@ import (
 )
 
 func main() {
-	intro.Structs()
 
+	// intro.Punteros()
+
+	intro.Structs()
 	// fmt.Println(intro.IsPalindrome("amor a ROMA"))
 	// intro.Array()
 
